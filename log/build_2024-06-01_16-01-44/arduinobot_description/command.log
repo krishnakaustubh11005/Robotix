@@ -1,0 +1,2 @@
+Invoking command in '/home/krishna/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/krishna/arduinobot_ws/build/arduinobot_description -- -j12 -l12
+Invoked command in '/home/krishna/arduinobot_ws/build/arduinobot_description' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/krishna/arduinobot_ws/build/arduinobot_description -- -j12 -l12

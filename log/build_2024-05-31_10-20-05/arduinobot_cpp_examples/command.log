@@ -1,0 +1,4 @@
+Invoking command in '/home/krishna/arduinobot_ws/build/arduinobot_cpp_examples': /usr/bin/cmake --build /home/krishna/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+Invoked command in '/home/krishna/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': /usr/bin/cmake --build /home/krishna/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+Invoking command in '/home/krishna/arduinobot_ws/build/arduinobot_cpp_examples': /usr/bin/cmake --install /home/krishna/arduinobot_ws/build/arduinobot_cpp_examples
+Invoked command in '/home/krishna/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': /usr/bin/cmake --install /home/krishna/arduinobot_ws/build/arduinobot_cpp_examples
